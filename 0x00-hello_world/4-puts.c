@@ -1,11 +1,8 @@
-
 #include <stdio.h>
-
 /**
- * main - Entry point
+ * main - this is the main function
  * 
- * Description: 'the program's description'
- * @parameter: describe the parameter
+ * Description: 'Programming is like building'
  * 
  * Return: Always 0 (Success)
  */
