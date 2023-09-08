@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - this is the main function 
+ * main - this is the main function
  * Description: 'Programming is like building'
  * Return: Always 0 (Success)
  */
